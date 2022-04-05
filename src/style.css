@@ -1,0 +1,39 @@
+.name{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    font-style: oblique;
+    text-shadow: 2px 2px 5px red;
+}
+
+.bio{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+
+.profession{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: orangered;
+    font-style: oblique;
+}
+
+.but{
+    background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.imm{
+    border: 2px solid rebeccapurple;
+    border-style: dashed;
+
+    width: 600px;
+    height: 350px;
+}
